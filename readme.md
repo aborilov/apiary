@@ -3,4 +3,4 @@ HOST: http://polls.apiblueprint.org/
 
 One :[first doc](one/readme.md)
 
-Two :[second doc](two/readme)
+Two :[second doc](two/readme.md)
